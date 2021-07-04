@@ -4,7 +4,7 @@ We used a Convolutional Neural Network (CNN) and tried to classify 6 different h
 After running the baseline model, we ran the model seven more times by changing the filter sizes and the number of fully-connected layers and the size of the data used to train the model. 
 The highest accuracy we achieved is 99.43%. 
 
-# Files
+
 The files in this repo include jupyter notebooks. One of the notebooks is the baseline model with one neural network layer.
 Other notebook is our experiment notebook. We changed the datasize and the number of filters in the first convolution layer.
 The notebook "crop_filmstrips" includes a code we used during preprocessing to crop the filmstrip images we extracted from ELAN to
