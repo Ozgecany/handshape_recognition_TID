@@ -1,0 +1,1 @@
+This project includes a CNN model trained with Turkish sign language data. (Will be explained more later)
